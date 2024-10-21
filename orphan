@@ -1,0 +1,2 @@
+git checkout --orphan new-branch
+git commit -m "Initial commit"
